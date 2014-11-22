@@ -1,0 +1,14 @@
+C:\ElevenThree\ElevenThree\ElevenThree.Twitter\bin\Debug\ElevenThree.Twitter.dll
+C:\ElevenThree\ElevenThree\ElevenThree.Twitter\bin\Debug\ElevenThree.Twitter.pdb
+C:\ElevenThree\ElevenThree\ElevenThree.Twitter\bin\Debug\log4net.dll
+C:\ElevenThree\ElevenThree\ElevenThree.Twitter\bin\Debug\Newtonsoft.Json.dll
+C:\ElevenThree\ElevenThree\ElevenThree.Twitter\bin\Debug\log4net.xml
+C:\ElevenThree\ElevenThree\ElevenThree.Twitter\bin\Debug\Newtonsoft.Json.xml
+C:\ElevenThree\ElevenThree\ElevenThree.Twitter\obj\Debug\ElevenThree.Twitter.dll
+C:\ElevenThree\ElevenThree\ElevenThree.Twitter\obj\Debug\ElevenThree.Twitter.pdb
+C:\ElevenThree\ElevenThree\ElevenThree.Twitter\obj\Debug\ElevenThree.Twitter.csprojResolveAssemblyReference.cache
+C:\ElevenThree\ElevenThree\ElevenThree.Twitter\bin\Debug\ElevenThree.Tools.dll
+C:\ElevenThree\ElevenThree\ElevenThree.Twitter\bin\Debug\HtmlAgilityPack.dll
+C:\ElevenThree\ElevenThree\ElevenThree.Twitter\bin\Debug\ElevenThree.Tools.pdb
+C:\ElevenThree\ElevenThree\ElevenThree.Twitter\bin\Debug\HtmlAgilityPack.pdb
+C:\ElevenThree\ElevenThree\ElevenThree.Twitter\bin\Debug\HtmlAgilityPack.xml
